@@ -1,0 +1,9 @@
+./Assembly-CSharp.csproj
+./euclid-dreaming-game.sln
+./.idea
+./Logs
+./obj
+./Temp
+./Library
+!/[Aa]ssets/**/*.meta
+*.unity
